@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoDatabaseCRUD</string>
+    <string name="enter_data_to_be_inserted_here">Enter data to be inserted here:</string>
+</resources>
